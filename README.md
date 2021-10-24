@@ -9,3 +9,5 @@ code for [Modern Cpp Tutorial](https://github.com/changkun/modern-cpp-tutorial)
 - [ch4 Container](./src/ch4)
 - [ch5 Smart Pointers and Memory Management](./src/ch5)
 - [ch6 Regular Expression](./src/ch6)
+- [ch7 Parallelism and Concurrency](./src/ch7)
+- 
