@@ -11,3 +11,5 @@ code for [Modern Cpp Tutorial](https://github.com/changkun/modern-cpp-tutorial)
 - [ch6 Regular Expression](./src/ch6)
 - [ch7 Parallelism and Concurrency](./src/ch7)
 - [ch8 File System](./src/ch8)
+- [ch9 Others](./src/ch9)
+
