@@ -5,7 +5,7 @@ set(PROJ_NAME ModernCppPlayGround)
 project(${PROJ_NAME})
 
 set(CMAKE_C_STANDARD 99)
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 20)
 
 option(DEBUG "Debug Version" on)
 
